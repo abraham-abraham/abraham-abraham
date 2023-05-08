@@ -10,10 +10,10 @@
 #### Conatct me
 📧 [ibraimibrahim117@gmail.com](mailto:ibrahimibrahim117@gmail.com)
 
-#### All of my projects are available at
+#### some projects
 👨‍💻 [my projects](https://ibrahim-ibrahim.vercel.app/)
 
-#### Know about my experiences 
+#### My experiences 
 📄 [my resume](https://ibrahim-ibrahim.vercel.app/Ibrahim_Ibrahim_Resume.pdf)
 
 #### Connect with me:
