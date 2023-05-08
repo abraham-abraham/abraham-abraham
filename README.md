@@ -7,7 +7,7 @@
 
 </div>
 
-#### How to reach me
+#### Conatct me
 📧 [ibraimibrahim117@gmail.com](mailto:ibrahimibrahim117@gmail.com)
 
 #### All of my projects are available at
