@@ -18,7 +18,8 @@
 
 #### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/-ibrahim-ibrahim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-ibrahim-ibrahim/" height="40" width="18" /> LinkedIn</a>
+<a href="https://www.linkedin.com/in/-ibrahim-ibrahim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-ibrahim-ibrahim/" height="40" width="18" /></a>
+   LinkedIn
 </p>
 
 #### Languages and Tools:
