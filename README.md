@@ -3,7 +3,7 @@
 
   # Hi, I'm Ibrahim
 
-  ### A computer science student
+  ### Game Developer | Computer Science Graduate | Electronics and Communication Engineer
 
 </div>
 
